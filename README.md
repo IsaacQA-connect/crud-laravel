@@ -1,3 +1,20 @@
+# CRUD en Laravel
+
+Este proyecto es un sistema CRUD desarrollado con Laravel y MySQL.
+
+## Tecnologías
+- Laravel 10+
+- MySQL
+- Bootstrap (opcional)
+
+## Cómo instalar
+1. Clonar el proyecto
+2. Ejecutar `composer install`
+3. Crear `.env` y configurar la base de datos
+4. Ejecutar `php artisan migrate`
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
