@@ -11,7 +11,8 @@ Este proyecto es un sistema CRUD desarrollado con Laravel y MySQL.
 1. Clonar el proyecto
 2. Ejecutar `composer install`
 3. Crear `.env` y configurar la base de datos
-4. Ejecutar `php artisan migrate`
+4. Ejecutar `php artisan key:generate`
+5. Ejecutar `php artisan migrate`
 
 
 
