@@ -9,10 +9,12 @@ Este proyecto es un sistema CRUD desarrollado con Laravel y MySQL.
 
 ## Cómo instalar
 1. Clonar el proyecto: git clone https://github.com/IsaacQA-connect/crud-laravel.git
-2. Ejecutar `composer install`
-3. Crear `.env` y configurar la base de datos
-4. Ejecutar `php artisan key:generate`
-5. Ejecutar `php artisan migrate`
+2. Ingresar a la carpeta: cd crud-laravel
+3. Ejecutar `composer install`
+4. Modificar archivo '.env.example' cambiar nombre a '.env'
+5. Ejecutar `php artisan key:generate`
+6. Ejecutar `php artisan migrate`
+7. Ejecutar `php artisan serve`
 
 
 
